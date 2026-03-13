@@ -9,5 +9,7 @@ console.log(numero === texto)
 console.log(typeof numero);
 console.log(typeof texto);
 
+
+//comversão explicita
 Number()
 String()
