@@ -1,19 +1,21 @@
 // var
 
-var altura = 5;
-var comprimento = 7;
+//var altura = 5;
+//var comprimento = 7;
 
-area = altura * comprimento;
-console.log(area);
-var area;
+//area = altura * comprimento;
+//console.log(area);
+//var area;
 
-let forma = 'retangulo';
+let forma = 'retângulo';
 let altura = 5;
-let comprimento =7
+let comprimento = 7;
 let area;
 
-//Se(forma igual 'retangulo')faça
-if (forma === ' retangulo'){
+//Se (forma igual 'retângulo')faça
+if (forma === 'retângulo'){
     area = altura * comprimento;
 }else {
-    area = (altura * compriment)/ 2;
+    area = (altura * comprimento)/ 2;
+}
+console.log(area);

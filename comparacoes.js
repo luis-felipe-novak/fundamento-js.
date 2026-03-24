@@ -5,7 +5,7 @@ const texto ="5";
 
 console.log(numero === texto)
 
-// typerof
+// typeof
 console.log(typeof numero);
 console.log(typeof texto);
 
